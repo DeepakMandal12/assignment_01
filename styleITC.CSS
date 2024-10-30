@@ -1,0 +1,46 @@
+#ITC{
+height: 300px;
+margin-left: 600px;
+width: 600px;
+align-content: center;
+margin-top: 40px;
+height: 450px;
+text-align: center;
+color: black;
+
+}
+#achalsir{
+    
+        margin-left: 220px;
+        height: 4.5cm;
+        width: 4.5cm;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-top: 0px;
+        margin-right: 1202px;
+}
+.detail{
+    margin-top: -450px;
+}
+.detals{
+    margin-left: 130px;
+}
+.homepage{
+    display: flex;
+}
+#head2 {
+    font-size: 20px;
+}
+#intr{
+    font-size: 20px;
+}
+body{
+    background-image:url(/bgitc.webp)
+    
+}
+#fac{
+    margin-left: -420px;
+}
+h1{
+    color: red;
+}

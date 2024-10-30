@@ -1,0 +1,28 @@
+#book{
+    height: 300px;
+    margin-left: 400px;
+    width: 600px;
+    align-content: center;
+    margin-top: 40px;
+    height: 450px;
+    text-align: center;
+    color: black;
+}
+#detail{
+    margin-top: -15px;
+}
+#fac{
+    margin-left: -100px;
+}
+#About{
+    margin-top: -450px;
+}
+#bolt{
+    font-size: 20px;
+}
+h3{
+    font-size: 19px;
+}
+body{
+    background-image: url(/bgbook.webp);
+}

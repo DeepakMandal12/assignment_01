@@ -1,0 +1,51 @@
+#kushal{
+
+    height: 300px;
+    margin-left: 600px;
+    width: 600px;
+    align-content: center;
+    margin-top: 40px;
+   
+    height: 450px;
+    text-align: center;
+    
+}
+h1{
+    color: red;
+}
+
+
+#photo{
+    margin-left: 220px;
+        height: 4.5cm;
+        width: 4.5cm;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-top: 0px;
+        margin-right: 1202px;
+}
+
+
+
+
+#about{
+    margin-top: -450px;
+    
+}
+#contain{
+    font-size: 15px;
+    
+}
+#we{
+    font-size: 24px;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url(/bg3python.webp);
+    color: white;
+    
+}
+
+#ab{
+    margin-left: -430px;
+}

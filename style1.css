@@ -1,0 +1,53 @@
+body{
+    background-image: url("/bbg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+#personal{
+    display: flex;
+}
+.photo{
+   
+    height: 300px;
+    margin-left: 90px;
+    width: 35%;
+    align-content: center;
+    margin-top: -50px;
+    
+
+}
+#myPhoto {
+    margin-left: 0px;
+    height: 4.5cm;
+    width: 4.5cm;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: -0px;
+    margin-right: 1202px;
+    
+}
+#Introduction{
+    margin-left: -200px;
+    color:white;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom:0px ;
+    line-height: 15px;
+}
+#personal{
+    margin-bottom: -40px;
+}
+h1{
+    color: red;
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.btech{
+    font-size: 20px;
+}
+.sitare{
+    font-size: 15px;
+}
